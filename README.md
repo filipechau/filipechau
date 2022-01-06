@@ -57,6 +57,6 @@ I currently attend the Odin Project Course, with some experience in web developm
 <a href="https://github.com/filipechau">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipechau&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
 </a></p>
-⭐️ From [filipechau](https://github.com/filipechau)
+
 
 
