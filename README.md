@@ -28,6 +28,9 @@ I currently attend the Odin Project Course, with some experience in web developm
 <a href="https://github.com/filipechau">
 <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
 </a>
+ <a href="https://github.com/filipechau">
+<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
+</a>
 <a href="https://github.com/filipechau"><img src="https://img.shields.io/badge/sublime-darkgreen.svg?style=for-the-badge&logo=sublime&logoColor=darkgreen&labelColor=ffffff" alt="sublime"></a>
 </p><br>
 
