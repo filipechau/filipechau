@@ -1,4 +1,4 @@
-img src="https://github.com/filipechau/filipechau/blob/main/readme.jpg">
+<img src="https://github.com/filipechau/filipechau/blob/main/read-Me.jpg">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/filipe_chau)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/filipe-chau-b25820211/)
@@ -7,6 +7,8 @@ img src="https://github.com/filipechau/filipechau/blob/main/readme.jpg">
 
 I am Filipe Chau from Mozambique! Organized and dependable Junior Full Stack
 Developer, successful at managing multiple priorities with a positive attitude.
+
+### What I Know
 
 <p align="center">
 <a href="https://github.com/filipechau"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
