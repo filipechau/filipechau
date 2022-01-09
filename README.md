@@ -1,13 +1,12 @@
-### Hi there 👋
+img src="https://github.com/filipechau/filipechau/blob/main/readme.jpg">
 
-I currently work in Maputo Main Station at Movitel SA, responsible for maintaining and ensuring that the entire power system is constantly functioning, to supply the equipments in the data center. 
-I am also part of the Network Operations Center team, responsible for supporting all other technical departments.
-I currently attend the Odin Project Course, with some experience in web development, I try to get involved in the community with expectations of learning more and becoming an excellent programmer.
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=filipechau" alt="filipechau" />
- <a href="https://github.com/filipechau"><img src="https://img.shields.io/github/followers/filipechau.svg?label=GitHub&style=social" alt="GitHub"></a>
- <a href="https://www.linkedin.com/in/filipe-chau-b25820211/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/filipe_chau)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/filipe-chau-b25820211/)
+
+# Hi 👋
+
+I am Filipe Chau from Mozambique! Organized and dependable Junior Full Stack
+Developer, successful at managing multiple priorities with a positive attitude.
 
 <p align="center">
 <a href="https://github.com/filipechau"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
@@ -53,4 +52,4 @@ I currently attend the Odin Project Course, with some experience in web developm
 </a></p>
 
 
-
+⭐ From [Filipe Chau](https://github.com/filipechau)
