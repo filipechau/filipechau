@@ -6,8 +6,9 @@
  
 # Hi 👋
 
-I am Filipe Chau from Mozambique! Organized and dependable Junior Full Stack
-Developer, successful at managing multiple priorities with a positive attitude.
+Always eager to learn new things, I am the person who feels unbeatable about anything in life, well I have challenged myself to improve day after day. Being a programmer has put me on a new level of challenge, this is the real way to live a better life “A Happy Life”.
+
+' Happy Coding.. '
 
 ### What I Know
 
